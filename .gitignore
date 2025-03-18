@@ -1,0 +1,14 @@
+*.DS_Store
+*.log
+*.tsbuildinfo
+
+node_modules/
+.pnp/
+.pnp.js
+pnpm-lock.yaml
+dist/
+build/
+.cache/
+
+**/node_modules/*
+**/dist/*
